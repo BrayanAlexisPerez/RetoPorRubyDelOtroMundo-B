@@ -1,0 +1,28 @@
+#body {
+	text-align: center;
+    background: #C5CA8F;
+    padding: 30px;
+    padding-bottom: 90px;
+}
+
+#fecha{
+	text-align: right;
+}
+
+#cab{
+	position: relative;
+	text-align: center;
+	padding-bottom: 30px;
+}
+
+#titulo{
+	font-size: 60px;
+}
+
+.parrafo{
+	font-size: 20px;
+}
+
+#nuevaNoticia{
+	color: red;
+}
